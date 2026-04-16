@@ -1,4 +1,4 @@
-<img width="1887" height="1078" alt="Screenshot 2026-02-17 173705" src="https://github.com/user-attachments/assets/3f9eba12-0a81-4a1d-be58-459a5dbabb15" /># 🏆 Sport Management System
+🏆 Sport Management System
 
 Une application web complète et sécurisée pour la gestion d'entités sportives, conçue pour centraliser les données des équipes, des joueurs et des stades.
 
